@@ -1,0 +1,14 @@
+C:\usr\.NET\DesingPatterns\Strategy\bin\Debug\net9.0\Strategy.exe
+C:\usr\.NET\DesingPatterns\Strategy\bin\Debug\net9.0\Strategy.deps.json
+C:\usr\.NET\DesingPatterns\Strategy\bin\Debug\net9.0\Strategy.runtimeconfig.json
+C:\usr\.NET\DesingPatterns\Strategy\bin\Debug\net9.0\Strategy.dll
+C:\usr\.NET\DesingPatterns\Strategy\bin\Debug\net9.0\Strategy.pdb
+C:\usr\.NET\DesingPatterns\Strategy\obj\Debug\net9.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\usr\.NET\DesingPatterns\Strategy\obj\Debug\net9.0\Strategy.AssemblyInfoInputs.cache
+C:\usr\.NET\DesingPatterns\Strategy\obj\Debug\net9.0\Strategy.AssemblyInfo.cs
+C:\usr\.NET\DesingPatterns\Strategy\obj\Debug\net9.0\Strategy.csproj.CoreCompileInputs.cache
+C:\usr\.NET\DesingPatterns\Strategy\obj\Debug\net9.0\Strategy.dll
+C:\usr\.NET\DesingPatterns\Strategy\obj\Debug\net9.0\refint\Strategy.dll
+C:\usr\.NET\DesingPatterns\Strategy\obj\Debug\net9.0\Strategy.pdb
+C:\usr\.NET\DesingPatterns\Strategy\obj\Debug\net9.0\Strategy.genruntimeconfig.cache
+C:\usr\.NET\DesingPatterns\Strategy\obj\Debug\net9.0\ref\Strategy.dll
